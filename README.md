@@ -1,0 +1,1 @@
+# factorio_craft_individually
